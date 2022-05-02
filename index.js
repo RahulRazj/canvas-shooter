@@ -146,7 +146,7 @@ addEventListener("click", (event) => {
       x: Math.cos(angle),
       y: Math.sin(angle)
     },
-    4
+    2.5
   )
   
   projectiles.push(projectile)
